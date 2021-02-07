@@ -3,7 +3,7 @@ layout: post
 author: Jacob Pettit
 comments: true
 tags: blog-news
-categories: tech
+categories: news 
 ---
 
 ![featured-image](/imgs/SOME BLOG news.png)

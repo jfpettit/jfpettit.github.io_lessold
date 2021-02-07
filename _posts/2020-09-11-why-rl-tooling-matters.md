@@ -4,7 +4,7 @@ author: Jacob Pettit
 comments: true
 tags: reinforcement-learning
 title: Why I think RL Tooling Matters
-categories: ai-ml
+categories: tech tools
 ---
 
 ![featured-image](/imgs/default-banner.png)

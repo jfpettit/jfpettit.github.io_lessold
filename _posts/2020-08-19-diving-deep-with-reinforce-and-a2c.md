@@ -5,7 +5,7 @@ comments: true
 tags: long-post reinforcement-learning code
 title: Diving Deep with Policy Gradients - REINFORCE and A2C 
 math: true
-categories: ai-ml
+categories: tech ai-ml
 ---
 
 ![featured-image](/imgs/Diving Deep With REINFORCE and A2C.png)

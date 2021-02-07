@@ -5,7 +5,7 @@ comments: true
 title: Looking at the Fundamentals of Reinforcement Learning
 tags: long-post reinforcement-learning
 math: true
-categories: ai-ml
+categories: tech ai-ml
 ---
 
 ![featured-image](/imgs/FUNDAMENTALS OF RL.png)

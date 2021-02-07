@@ -4,7 +4,7 @@ author: Jacob Pettit
 comments: true
 tags: conferences
 featured-image: /assets/imgs/NeurIPS 2019.png
-categories: ai-ml
+categories: tech ai-ml
 ---
 
 ![featured-image](/imgs/NeurIPS 2019.png)

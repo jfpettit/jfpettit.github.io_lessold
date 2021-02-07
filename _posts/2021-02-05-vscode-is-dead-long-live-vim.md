@@ -3,7 +3,7 @@ layout: post
 author: Jacob Pettit
 comments: true
 title: VSCode is dead! Long Live Vim!
-categories: tech
+categories: tech tools
 tags: code
 toc: true
 ---
