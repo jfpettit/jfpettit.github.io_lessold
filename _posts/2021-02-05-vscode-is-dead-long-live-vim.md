@@ -17,7 +17,7 @@ A quick disclaimer to the emacs folks; I'm not trying to pick a fight here. I ju
 # Some context
 
 I've spent the last year plus using VSCode and generally had a great experience. I started off with default keybindings, until a coworker told me I should try vim keybindings.
-After spending a little time learning to use the vim keys, I was editing code quicker and my mind was blown. :exploding_head:
+After spending a little time learning to use the vim keys, I was editing code quicker and my mind was blown. 🤯
 
 This lasted until I started working on bigger projects and VSCode got kind of slow. I just suffered and kept using it until I saw a [YouTube video](https://youtu.be/gnupOrSEikQ) talking about how to configure vim like VSCode. I got inspired and had to try it for myself. Several hours and a couple of days worth of finetuning later, I had a setup that felt perfect. Now, I can't imagine going back anytime soon, and I like using my vim setup so much that I decided I had to write this blog post about it!
 
@@ -196,7 +196,7 @@ endif
 
 Well, I hope you enjoyed my ramblings about vim, dear reader. Hopefully you think vim is worth checking out! 
 
-Thanks for reading. :v:
+Thanks for reading. ✌️
 
 # References
 
