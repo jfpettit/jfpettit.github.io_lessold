@@ -8,7 +8,7 @@ tags: code
 toc: true
 ---
 
-![featured-image](/assets/imgs/VS.gif)
+![featured-image](/imgs/VS.gif)
 
 **Well, really Long Live NeoVim, but that just isn't as catchy is it?**
 

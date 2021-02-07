@@ -7,7 +7,7 @@ featured-image: /assets/imgs/NeurIPS 2019.png
 categories: ai-ml
 ---
 
-![featured-image](/assets/imgs/NeurIPS 2019.png)
+![featured-image](/imgs/NeurIPS 2019.png)
 
 **Last year I was fortunate enough to attend NeurIPS 2019. It was an amazing experience, I was able to meet lots of smart people and learned a ton. This post discusses my time at NeurIPS 2019**
 

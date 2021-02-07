@@ -8,7 +8,7 @@ math: true
 categories: ai-ml
 ---
 
-![featured-image](/assets/imgs/Diving Deep With REINFORCE and A2C.png)
+![featured-image](/imgs/Diving Deep With REINFORCE and A2C.png)
 
 **In this post, we'll talk about the REINFORCE policy gradient algorithm and the Advantage Actor Critic (A2C) algorithm. I'll be assuming familiarity with at least the basics of RL.**
 

@@ -7,7 +7,7 @@ title: Why I think RL Tooling Matters
 categories: ai-ml
 ---
 
-![featured-image](/assets/imgs/default-banner.png)
+![featured-image](/imgs/default-banner.png)
 
 **The tools we use influence the research we do, and while there are many good RL tools out there, there are still areas where tools need to be built.**
 
