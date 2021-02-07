@@ -23,7 +23,7 @@ This December, I was lucky enough to be able to go to my first [NeurIPS](https:/
 # Conference Talks!
 
 In no particular order, the talks I especially enjoyed are: 
-- [Josh Tobin's](http://josh-tobin.com/) talk on [Geometry-Aware Neural Rendering](josh-tobin.com/assets/pdf/geometry_aware_neural_rendering_vNeurIPS.pdf)
+- [Josh Tobin's](http://josh-tobin.com/) talk on Geometry-Aware Neural Rendering.
 - [Pieter Abbeel's](https://people.eecs.berkeley.edu/~pabbeel/) talk on [Better Model-Based RL through Meta-RL](https://slideslive.com/38922013/metalearning-2)
 - [Igor Mordatch's](https://openai.com/blog/authors/igor/) [discussion](https://slideslive.com/38921888/biological-and-artificial-reinforcement-learning-3) of [Multi-agent interaction](https://openai.com/blog/emergent-tool-use/) and online optimization in RL
 - [Richard Sutton's](http://incompleteideas.net/) overview of next steps [Towards a General AI-Agent Architecture](https://slideslive.com/38921889/biological-and-artificial-reinforcement-learning-4) (talk starts around the 15 minute mark)
