@@ -17,7 +17,7 @@ timezone: America/Los_Angeles
 # --------------------------
 title: The Merge                          # the main title
 
-tagline: Discussing tech, AI, and science.   # it will display as the sub-title
+tagline: Discussing tech, AI, and science. # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A blog about science, AI, reinforcment learning and tech, by a researcher in reinforcement learning. 
